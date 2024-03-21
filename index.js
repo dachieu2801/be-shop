@@ -24,10 +24,3 @@ route(app);
 
 
 app.listen(port)
-
-
-đáad
-ádasds
-ádasd
-ádsa
-đa
